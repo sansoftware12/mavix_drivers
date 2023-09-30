@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "1082709818896",
+    "firebase_url": "https://mavix-ambulances-default-rtdb.firebaseio.com",
+    "project_id": "mavix-ambulances",
+    "storage_bucket": "mavix-ambulances.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082709818896:android:102e17777c709c794bd495",
+        "android_client_info": {
+          "package_name": "com.example.driverslogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082709818896-7j57ap3jksssp37b5lhpo4mmm7pt2mfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoCjKIhJFppCzX84rY8G6qXVSqP1IZpug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082709818896-7j57ap3jksssp37b5lhpo4mmm7pt2mfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082709818896:android:cf9495acc08ffb114bd495",
+        "android_client_info": {
+          "package_name": "com.example.mavix_ambulances"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082709818896-7j57ap3jksssp37b5lhpo4mmm7pt2mfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoCjKIhJFppCzX84rY8G6qXVSqP1IZpug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082709818896-7j57ap3jksssp37b5lhpo4mmm7pt2mfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082709818896:android:a2bf69e9b99b7c694bd495",
+        "android_client_info": {
+          "package_name": "com.example.mavix_drivers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082709818896-7j57ap3jksssp37b5lhpo4mmm7pt2mfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoCjKIhJFppCzX84rY8G6qXVSqP1IZpug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082709818896-7j57ap3jksssp37b5lhpo4mmm7pt2mfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082709818896:android:863d45f4724179cc4bd495",
+        "android_client_info": {
+          "package_name": "com.example.mavix_e"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082709818896-7j57ap3jksssp37b5lhpo4mmm7pt2mfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoCjKIhJFppCzX84rY8G6qXVSqP1IZpug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082709818896-7j57ap3jksssp37b5lhpo4mmm7pt2mfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

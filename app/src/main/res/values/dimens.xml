@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Other dimension resources... -->
+
+    <!-- Custom map padding in pixels -->
+    <dimen name="map_padding">50dp</dimen>
+</resources>
